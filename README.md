@@ -1,4 +1,4 @@
-# Git Merge Conflicts
+open index.html# Git Merge Conflicts
 
 ## Learning Goals
 
